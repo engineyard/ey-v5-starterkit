@@ -15,7 +15,7 @@ git clone git@github.com:engineyard/ey-v5-starterkit.git
 
 2) Add recipes
 
-The V5 custom chef recipes are in https://github.com/engineyard/ey-cookbooks-stable-v5/tree/master/examples. To add a recipe, run `bash add_recipe.sh <recipe_name>`. For example, to add the Resque recipe, run:
+The V5 custom chef recipes are in https://github.com/engineyard/ey-cookbooks-stable-v5/tree/master/custom-cookbooks. To add a recipe, run `bash add_recipe.sh <recipe_name>`. For example, to add the Resque recipe, run:
 
 ```
 bash add_recipe.sh resque

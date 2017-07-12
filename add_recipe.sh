@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo 'Downloading v5 chef repository'
 git clone https://github.com/engineyard/ey-cookbooks-stable-v5
 

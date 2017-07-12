@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo 'Removing downloaded cookbooks'
 rm -rf ey-cookbooks-stable-v5
 rm -rf cookbooks

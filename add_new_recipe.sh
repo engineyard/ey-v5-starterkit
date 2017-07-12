@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Adding a new cookbook $1 to cookbooks folder"
 mkdir -p cookbooks/$1
 mkdir -p cookbooks/$1/attributes
